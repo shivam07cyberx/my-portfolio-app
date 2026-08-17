@@ -15,15 +15,16 @@ function NavBar({ dark, setDark }) {
         <nav className="navbar-custom">
 
             {/* Logo */}
-            <span
-                style={{
-                    color: "red",
-                    fontWeight: "bold",
-                    fontSize: "20px"
-                }}
-            >
-                SP
-            </span>
+         {/* Logo */}
+<span
+    style={{
+        color: "red",
+        fontWeight: "bold",
+        fontSize: "20px"
+    }}
+>
+    &lt;SHIVAM/DEV&gt;
+</span>
 
             {/* Desktop Menu */}
             <div className="desktop-menu">
