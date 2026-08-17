@@ -1,0 +1,8 @@
+create or replace procedure hello(
+a in number,
+b out number
+)
+is begin
+b=a*a;
+end;
+/
