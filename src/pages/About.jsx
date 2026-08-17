@@ -193,7 +193,7 @@ function About() {
 
                 <a
     href={resume}
-    download="SHIVAN_RESUME.pdf"
+    download="SHIVAM_RESUME.pdf"
     className="btn btn-dark mt-4 px-4"
 >
     Download Resume
